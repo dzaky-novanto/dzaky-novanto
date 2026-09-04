@@ -1,6 +1,6 @@
 # `Dzaky.` IT NETWORK ENGINEERING
 
-## Hey, I'm Jaki
+## Hey, I'm Dzaky.
 
 TKJ student interested in **Networking, Linux, Cybersecurity, and Web Development**.
 
