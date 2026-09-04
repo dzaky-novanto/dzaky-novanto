@@ -34,6 +34,10 @@ I like understanding **how things work**, not just making them work.
 
 ### Networking
 
+<p>
+  <img src="https://skillicons.dev/icons?i=cisco,mikrotik" alt="Cisco MikroTik">
+</p>
+
 * Cisco IOS
 * MikroTik RouterOS
 * Cisco Packet Tracer
@@ -44,11 +48,19 @@ I like understanding **how things work**, not just making them work.
 
 ### Virtualization
 
+<p>
+  <img src="https://skillicons.dev/icons?i=virtualbox" alt="VirtualBox">
+</p>
+
 * VirtualBox
 
 ---
 
 ## Currently Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,python,html,css,js" alt="Linux Python HTML CSS JavaScript">
+</p>
 
 * Network Administration
 * Linux Server
