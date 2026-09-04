@@ -9,7 +9,7 @@ Currently exploring **Networking, Linux, Cybersecurity, and Web Development**.
 
 ## About Me
 
-I'm a student of **Computer and Network Engineering (TKJ)** with an interest in how computer networks and systems work.
+I'm a student of **IT Network Engineering (TKJ)** with an interest in how computer networks and systems work.
 
 I spend my time learning, experimenting, and building small projects while improving my skills in networking, Linux, system administration, and web development.
 
