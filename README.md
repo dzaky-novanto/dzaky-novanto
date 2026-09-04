@@ -1,20 +1,17 @@
 # `jaki` — Computer & Network Engineering
 
-## Hey, I'm Jaki 👋
+## Hey, I'm Jaki
 
 TKJ student interested in **Networking, Linux, Cybersecurity, and Web Development**.
 
-Currently learning, building, and experimenting with different tech stuff.
-
 ---
 
-## About
+## About Me
 
-I'm learning how computers, networks, and systems work — from configuring routers and switches to setting up Linux servers and building web applications.
-
-Most of my projects are experiments, labs, and things I build while learning.
-
-I like understanding **how things work**, not just making them work.
+* Learning networking and system administration
+* Exploring Linux and cybersecurity
+* Building small web projects
+* Practicing with Cisco, MikroTik, and VirtualBox
 
 ---
 
@@ -23,53 +20,46 @@ I like understanding **how things work**, not just making them work.
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,python" alt="HTML CSS JavaScript Python">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python" />
 </p>
 
-### Systems & Development
+### Systems
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,debian,windows,vscode,git,github,nodejs" alt="Linux Debian Windows VS Code Git GitHub Node.js">
+  <img src="https://skillicons.dev/icons?i=linux,debian,windows" />
 </p>
 
 ### Networking
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cisco,mikrotik" alt="Cisco MikroTik">
+  <img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="50" height="50" alt="Cisco" />
+  <img src="https://cdn.simpleicons.org/mikrotik/293239" width="50" height="50" alt="MikroTik" />
+  <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="50" height="50" alt="Wireshark" />
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Icons8-cisco-packet-tracer.svg" width="50" height="50" alt="Cisco Packet Tracer" />
 </p>
-
-* Cisco IOS
-* MikroTik RouterOS
-* Cisco Packet Tracer
-* VLAN & Trunking
-* Routing
-* DHCP
-* Subnetting
 
 ### Virtualization
 
 <p>
-  <img src="https://skillicons.dev/icons?i=virtualbox" alt="VirtualBox">
+  <img src="https://cdn.simpleicons.org/virtualbox/183A61" width="50" height="50" alt="VirtualBox" />
 </p>
 
-* VirtualBox
+### Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,nodejs" />
+</p>
 
 ---
 
 ## Currently Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,python,html,css,js" alt="Linux Python HTML CSS JavaScript">
+  <img src="https://skillicons.dev/icons?i=cisco,linux,python,html,css,js" />
 </p>
-
-* Network Administration
-* Linux Server
-* Cybersecurity
-* Web Development
-* System Administration
 
 ---
 
 <p align="center">
-  <i>Still learning. Still building.</i>
+  Still learning. Still building.
 </p>
