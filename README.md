@@ -1,96 +1,49 @@
-# `jaki` — Computer & Network Engineering
+### Hi there, I'm Dzaky! 👋
 
-## Hey, I'm Jaki 👋
+**Tech Explorer & Network Enthusiast**
 
-TKJ student interested in **Networking, Linux, Cybersecurity, and Web Development**.
+Aku adalah siswa jurusan Teknik Komputer dan Jaringan (TKJ) di SMK Negeri 2 Kota Bekasi. Aku memiliki minat besar dalam mengeksplorasi teknologi, mulai dari pengembangan web modern hingga merancang infrastruktur jaringan. 
 
-Currently learning, building, and experimenting with different tech stuff.
-
-## Tools I Use
-
-<p>
-  <a href="https://www.cisco.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=cisco" width="45" height="45" alt="Cisco">
-  </a>
-  <a href="https://mikrotik.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mikrotik" width="45" height="45" alt="MikroTik">
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linux" width="45" height="45" alt="Linux">
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://skillicons.dev/icons?i=javascript" width="45" height="45" alt="JavaScript">
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git">
-  </a>
-  <a href="https://www.virtualbox.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=virtualbox" width="45" height="45" alt="VirtualBox">
-  </a>
-</p>
+> *"Belajar, ngulik, gagal, perbaiki, lalu coba lagi."* 🚀
 
 ---
 
-## About
+### 🔭 Apa yang sedang aku kerjakan & pelajari?
 
-I'm currently learning how computers, networks, and systems work — from configuring routers and switches to setting up Linux servers and building web applications.
-
-Most of my projects are experiments, labs, and things I build while learning.
-
-I like understanding **how things work under the hood**, not just making them work.
+* 🌐 **Web Development:** Membangun aplikasi web seperti **KitaNgobrol** (Fullstack dengan Node.js & Express) dan merancang web portofolio personal.
+* 🖥️ **Networking:** Simulasi infrastruktur jaringan (LAN/WAN, VLAN, Trunking, DHCP) menggunakan Cisco Packet Tracer dan eksplorasi *Command-Line* MikroTik RouterOS.
+* 🐧 **SysAdmin & Keamanan:** Mengubah laptop lawas menjadi *Home Web Server* menggunakan Debian Linux & Cloudflare Tunnel, serta bereksplorasi dengan *system hardening* di VirtualBox.
 
 ---
 
-## Tech Stack
+### 💻 Tech Stack & Tools
 
-### Languages
+**Networking & OS**  
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![MikroTik](https://img.shields.io/badge/MikroTik-24282B?style=flat-square&logo=mikrotik&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,python" alt="Languages">
-</p>
+**Web Development**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
 
-### Networking & Systems
-
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,debian,windows" alt="Operating Systems">
-</p>
-
-**Networking**
-
-* Cisco IOS
-* MikroTik RouterOS
-* Cisco Packet Tracer
-* VLAN
-* Trunking
-* Routing
-* DHCP
-* Subnetting
-
-**Virtualization**
-
-* VirtualBox
-
-### Development Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,nodejs" alt="Development Tools">
-</p>
+**Tools**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
 
 ---
 
-## What I'm Working On
+### 📫 Mari Terhubung!
 
-* Networking labs
-* Linux server setup
-* Cybersecurity labs
-* Web projects
-* Small experiments and personal projects
+* 📧 Email: [Ganti dengan emailmu](mailto:emailmu@gmail.com)
+* 💼 LinkedIn: [Ganti dengan link LinkedIn jika ada](#)
+* 🌐 Portfolio: [Ganti dengan link Vercel kamu](https://dzaky-about.vercel.app/)
 
----
-
-<p align="center">
-  <i>Still learning. Still building.</i>
-</p>
+<!--
+⚡ Fun fact: Kegagalan saat *ngulik* server dan jaringan adalah makanan sehari-hari yang bikin skill makin tajam!
+-->
