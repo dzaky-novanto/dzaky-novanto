@@ -1,6 +1,6 @@
 # `jaki` — Computer & Network Engineering
 
-# Hey, I'm Jaki 👋
+## Hey, I'm Jaki 👋
 
 TKJ student interested in **Networking, Linux, Cybersecurity, and Web Development**.
 
@@ -10,25 +10,25 @@ Currently learning, building, and experimenting with different tech stuff.
 
 <p>
   <a href="https://www.cisco.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" width="40" height="40" alt="Cisco">
+    <img src="https://skillicons.dev/icons?i=cisco" width="45" height="45" alt="Cisco">
   </a>
   <a href="https://mikrotik.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/mikrotik/293239" width="40" height="40" alt="MikroTik">
+    <img src="https://skillicons.dev/icons?i=mikrotik" width="45" height="45" alt="MikroTik">
   </a>
   <a href="https://www.linux.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux">
+    <img src="https://skillicons.dev/icons?i=linux" width="45" height="45" alt="Linux">
   </a>
   <a href="https://www.python.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python">
+    <img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python">
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript">
+    <img src="https://skillicons.dev/icons?i=javascript" width="45" height="45" alt="JavaScript">
   </a>
   <a href="https://git-scm.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git">
+    <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git">
   </a>
   <a href="https://www.virtualbox.org/" target="_blank">
-    <img src="https://cdn.simpleicons.org/virtualbox/183A61" width="40" height="40" alt="VirtualBox">
+    <img src="https://skillicons.dev/icons?i=virtualbox" width="45" height="45" alt="VirtualBox">
   </a>
 </p>
 
@@ -77,4 +77,20 @@ I like understanding **how things work under the hood**, not just making them wo
 
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,git,github,nodejs" alt="Development Tools">
+</p>
+
+---
+
+## What I'm Working On
+
+* Networking labs
+* Linux server setup
+* Cybersecurity labs
+* Web projects
+* Small experiments and personal projects
+
+---
+
+<p align="center">
+  <i>Still learning. Still building.</i>
 </p>
