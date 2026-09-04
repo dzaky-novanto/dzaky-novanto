@@ -1,12 +1,35 @@
 # `jaki` — Computer & Network Engineering
 
-**TKJ student building things around networks, Linux, web, and security.**
+# Hey, I'm Jaki 👋
 
-```text
-NETWORKING ──────── CISCO · MIKROTIK · VLAN · ROUTING
-SYSTEMS ─────────── LINUX · DEBIAN · VIRTUALIZATION
-DEVELOPMENT ─────── HTML · CSS · JAVASCRIPT · PYTHON
-SECURITY ─────────── LINUX HARDENING · SECURITY LABS
+TKJ student interested in **Networking, Linux, Cybersecurity, and Web Development**.
+
+Currently learning, building, and experimenting with different tech stuff.
+
+**Tools I use:**
+
+<a href="https://www.cisco.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" width="40" height="40" alt="Cisco"/>
+</a>
+<a href="https://mikrotik.com/" target="_blank">
+  <img src="https://cdn.simpleicons.org/mikrotik/293239" width="40" height="40" alt="MikroTik"/>
+</a>
+<a href="https://www.linux.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
+</a>
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+</a>
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+</a>
+<a href="https://www.virtualbox.org/" target="_blank">
+  <img src="https://cdn.simpleicons.org/virtualbox/183A61" width="40" height="40" alt="VirtualBox"/>
+</a>
+
 ```
 
 ---
