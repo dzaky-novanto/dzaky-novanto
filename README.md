@@ -1,4 +1,4 @@
-# `jaki` — Computer & Network Engineering
+# `Dzaky.` IT NETWORK ENGINEERING
 
 ## Hey, I'm Jaki
 
