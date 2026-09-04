@@ -2,50 +2,50 @@
 
 ## Hey, I'm Dzaky.
 
-TKJ student interested in **Networking, Linux, Cybersecurity, and Web Development**.
+I'm a **TKJ student** who enjoys learning about computers, networks, and technology.
+Currently exploring **Networking, Linux, Cybersecurity, and Web Development**.
 
 ---
 
 ## About Me
 
-I'm currently learning and exploring:
+I'm a student of **Computer and Network Engineering (TKJ)** with an interest in how computer networks and systems work.
+
+I spend my time learning, experimenting, and building small projects while improving my skills in networking, Linux, system administration, and web development.
+
+---
+
+## What I'm Learning
+
+### Networking & Systems
 
 <p>
   <img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="45" height="45" alt="Cisco" />
   <img src="https://cdn.simpleicons.org/mikrotik/293239" width="45" height="45" alt="MikroTik" />
   <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Icons8-cisco-packet-tracer.svg" width="45" height="45" alt="Cisco Packet Tracer" />
-  <img src="https://cdn.simpleicons.org/virtualbox/183A61" width="45" height="45" alt="VirtualBox" />
   <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="45" height="45" alt="Wireshark" />
+  <img src="https://cdn.simpleicons.org/virtualbox/183A61" width="45" height="45" alt="VirtualBox" />
   <img src="https://skillicons.dev/icons?i=linux,debian,windows" height="45" alt="Linux Debian Windows" />
 </p>
 
-Networking, system administration, Linux, virtualization, and cybersecurity.
+<p>
+  Networking, subnetting, VLAN, routing, DHCP, Linux server, virtualization, and system administration.
+</p>
 
----
-
-## I Learn
+### Web Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,nodejs" />
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,nodejs" />
+  Learning to build websites and small web projects while improving my programming skills.
 </p>
 
-<p>
-  <img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="45" height="45" alt="Cisco" />
-  <img src="https://cdn.simpleicons.org/mikrotik/293239" width="45" height="45" alt="MikroTik" />
-  <img src="https://cdn.simpleicons.org/virtualbox/183A61" width="45" height="45" alt="VirtualBox" />
-  <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="45" height="45" alt="Wireshark" />
-</p>
-
----
-
-## Currently Learning
+### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,python,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github" />
 </p>
 
 ---
