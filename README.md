@@ -80,8 +80,8 @@ Learning to build websites and small web projects, experimenting with **HTML, CS
 
 | Project | Description | Status |
 |---|---|---|
-| _Coming soon_ | _Add your project name & description here_ | 🚧 |
-| _Coming soon_ | _Add your project name & description here_ | 🚧 |
+| _Coming soon_ | _DziMail-WebMail_ | 🚧 |
+| _Coming soon_ | _KitaNgonrol-SocialMedia_ | 🚧 |
 
 <br/>
 
