@@ -1,6 +1,5 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:3a3a5c,100:c9a86a&height=230&section=header&text=Dzaky&fontSize=72&fontColor=E8E4D8&animation=fadeIn&fontAlignY=36&desc=Handler,%20Spearhead%20Squadron&descAlignY=54&descSize=18&descColor=c9a86a" width="100%" />
+<div align="center"> <img src="https://capsule-render.vercel.app/api?
+                       type=waving&color=0:1a1a2e,50:3a3a5c,100:c9a86a&height=230&section=header&text=Dzaky&fontSize=72&fontColor=E8E4D8&animation=fadeIn&fontAlignY=36&desc=Handler,%20Spearhead%20Squadron&descAlignY=54&descSize=18&descColor=c9a86a" width="100%" /> <br/> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=C9A86A&center=true&vCenter=true&width=650&lines=IT+Network+Engineering+Student;Networking+%7C+Linux+%7C+Cybersecurity;%22The+only+ones+who+can+mourn+the+dead...+are+the+living.%22;Still+learning.+Still+building." alt="Typing SVG" /> <br/> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:c9a86a,100:1a1a2e&height=3&width=100%25" width="100%" /> </div> <br/>
 
 <br/>
 
